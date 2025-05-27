@@ -1,4 +1,3 @@
-````markdown
 # MRLETUM DDoS Testing Tool
 
 **MRLETUM** is a Python-based network testing script designed for **educational**, **controlled**, and **ethical use only**. It simulates packet flooding to test the resilience and response of systems under high traffic scenarios using **Tor anonymization**, **multi-target bursting**, and **customized threading**.
@@ -43,23 +42,23 @@ python mrletum_ddos.py
 
 ### You’ll be prompted to enter:
 
-* Target IP(s) (comma-separated)
-* Port(s) (comma-separated, defaults: 80, 443)
-* Packet rate (seconds between sends)
-* Data size in bytes (default: 600)
-* Number of threads (default: 20)
-* Use Tor? (`y/n`)
-* Enable burst mode? (`y/n`)
-* Burst interval (in seconds, default: 10s)
-* Export logs format (`json`, `csv`, or `both`)
+- Target IP(s) (comma-separated)
+- Port(s) (comma-separated, defaults: 80, 443)
+- Packet rate (seconds between sends)
+- Data size in bytes (default: 600)
+- Number of threads (default: 20)
+- Use Tor? (`y/n`)
+- Enable burst mode? (`y/n`)
+- Burst interval (in seconds, default: 10s)
+- Export logs format (`json`, `csv`, or `both`)
 
 ---
 
 ## 📁 Output
 
-* `ddos_attack.log`: Human-readable log file
-* `ddos_log.json`: Machine-readable JSON log (if enabled)
-* `ddos_log.csv`: CSV-formatted log (if enabled)
+- `ddos_attack.log`: Human-readable log file
+- `ddos_log.json`: Machine-readable JSON log (if enabled)
+- `ddos_log.csv`: CSV-formatted log (if enabled)
 
 ---
 
@@ -67,15 +66,15 @@ python mrletum_ddos.py
 
 This project is for:
 
-* **Red team simulation**
-* **Pentesting labs**
-* **Stress testing within your infrastructure**
+- **Red team simulation**
+- **Pentesting labs**
+- **Stress testing within your infrastructure**
 
 Do **not** use against:
 
-* External networks
-* Public servers
-* Any system without **explicit written consent**
+- External networks
+- Public servers
+- Any system without **explicit written consent**
 
 ---
 
