@@ -76,15 +76,4 @@ Do **not** use against:
 - Public servers
 - Any system without **explicit written consent**
 
----
 
-## ❗ Licensing & Usage
-
-This project is **not licensed for redistribution or reuse without explicit permission from the author**. Do not share, modify, or republish without consent.
-
----
-
-```
-
-Let me know if you want to add author credits, contact info, or contribution rules.
-```
